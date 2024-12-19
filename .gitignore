@@ -3,3 +3,5 @@
 **/._*
 **/.ipynb_checkpoints/
 /clearvoice/checkpoints/MossFormer2_SE_48K
+/clearvoice/samples
+*.pt
