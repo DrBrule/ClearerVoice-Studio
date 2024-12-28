@@ -5,3 +5,4 @@
 /clearvoice/checkpoints/MossFormer2_SE_48K
 /clearvoice/samples
 *.pt
+process_dataset.py
